@@ -1,2 +1,3 @@
-# tls-altnames
-:lock: List Alternative Names From TLS For OSINT
+# :lock: tls-altnames
+
+List `Subject Alternative Name` from TLS Certificates for `osint`.
